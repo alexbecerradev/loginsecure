@@ -1,4 +1,7 @@
 # loginsecure
 
-Login service creado con Springboot, Hibernate que emplea Spring Security y JWT para el regristro de sesiones. 
+Login service creado con Springboot que emplea Spring Security y JWT para el regristro de sesiones. 
 
+Spring Boot 3
+Spring Security 6
+jsonwebtoken
